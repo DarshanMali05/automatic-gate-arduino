@@ -19,9 +19,9 @@ After a few seconds, the gate closes automatically.
 
 ## Output
 
-![Setup](Images/setup.jpg)
-![Wiring](Images/wiring.jpg)
-![Output](Images/output.jpg)
+![Setup](Images/Setup.jpg)
+![Wiring](Images/Wiring.jpg)
+![Output](Images/Output.jpg)
 
 ## Author
 
